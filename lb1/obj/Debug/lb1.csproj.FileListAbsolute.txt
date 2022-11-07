@@ -1,0 +1,8 @@
+C:\Users\Fuutarou_Uesugi\Desktop\C#Net\lb1\bin\Debug\lb1.exe.config
+C:\Users\Fuutarou_Uesugi\Desktop\C#Net\lb1\bin\Debug\lb1.exe
+C:\Users\Fuutarou_Uesugi\Desktop\C#Net\lb1\bin\Debug\lb1.pdb
+C:\Users\Fuutarou_Uesugi\Desktop\C#Net\lb1\obj\Debug\lb1.csproj.AssemblyReference.cache
+C:\Users\Fuutarou_Uesugi\Desktop\C#Net\lb1\obj\Debug\lb1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fuutarou_Uesugi\Desktop\C#Net\lb1\obj\Debug\lb1.csproj.CoreCompileInputs.cache
+C:\Users\Fuutarou_Uesugi\Desktop\C#Net\lb1\obj\Debug\lb1.exe
+C:\Users\Fuutarou_Uesugi\Desktop\C#Net\lb1\obj\Debug\lb1.pdb
