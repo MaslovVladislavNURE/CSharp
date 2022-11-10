@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FirstLab/1.0.0": {
+        "dependencies": {
+          "EmployeeLibrary": "1.0.0"
+        },
+        "runtime": {
+          "FirstLab.dll": {}
+        }
+      },
+      "EmployeeLibrary/1.0.0": {
+        "runtime": {
+          "EmployeeLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirstLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
